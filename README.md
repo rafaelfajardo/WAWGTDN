@@ -3,7 +3,7 @@
 
 This is a set of conceptual games submitted for Global Game Jam 2015
 They are games as conceptual art, or NotGames, or Works of Game.
-They are conceptual art frames as games.
+They are conceptual art framed as games.
 
 For the uninitiated, the rules of conceptual art are to use one's mind. The material is the human imagination.
 
